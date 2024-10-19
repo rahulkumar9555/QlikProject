@@ -51,4 +51,7 @@ This project delivers valuable insights into business performance using SQL-base
 - **SQL Queries:** Use the provided SQL scripts to analyze data in a relational database.
 - **Qlik Sense Dashboard:** The Qlik Sense application can be used to create an interactive dashboard using the visualizations mentioned.
 
+- ### Sanapshot of Dashboard(qliksense)
+- [image](https://github.com/user-attachments/assets/c587004e-8901-4881-a1a5-5dc88b624cde)
+
 
